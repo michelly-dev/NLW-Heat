@@ -1,0 +1,32 @@
+# NODEJS
+NLW-NodeJS/node_modules/
+NLW-NodeJS/.DS_Store
+NLW-NodeJS/.env
+
+# REACT-JS
+NLW-ReactJS/node_modules/
+NLW-ReactJS/.DS_Store
+
+# REACT-NATIVE
+NLW-React-Native/node_modules/
+NLW-React-Native/.expo/
+NLW-React-Native/dist/
+NLW-React-Native/npm-debug.*
+NLW-React-Native/*.jks
+NLW-React-Native/*.p8
+NLW-React-Native/*.p12
+NLW-React-Native/*.key
+NLW-React-Native/*.mobileprovision
+NLW-React-Native/*.orig.*
+NLW-React-Native/web-build/
+NLW-React-Native/.DS_Store
+
+# ELIXIR
+NLW-Elixir/_build/
+NLW-Elixir/cover/
+NLW-Elixir/deps/
+NLW-Elixir/doc/
+NLW-Elixir/.fetch
+NLW-Elixir/erl_crash.dump
+NLW-Elixir/*.ez
+NLW-Elixir/heat_tags-*.tar
